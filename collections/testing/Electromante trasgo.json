@@ -1,0 +1,13 @@
+{
+  "ID": 23,
+  "Name": "Electromante trasgo",
+  "Mana": 2,
+  "Color": "Multicolor",
+  "Type": "Criatura",
+  "Rarity": "Comun",
+  "Strength": 2,
+  "Resistance": 2,
+  "Loyalty": 0,
+  "Text": "Arrollar. Vuela.",
+  "Value": 1
+}
